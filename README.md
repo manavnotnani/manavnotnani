@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/manavnotnani99" target="blank"><img src="https://img.shields.io/twitter/follow/manavnotnani99?logo=twitter&style=for-the-badge" alt="manavnotnani99" /></a> </p>
 
-- 🔭 I’m currently working on [building vercel from scratch](https://github.com/manavnotnani/building-vercel)
+- 🔭 I’m currently working on [making investment asset class in crypto(Market Linked Debuntures)](https://github.com/manavnotnani/building-vercel)
 
-- 👨‍💻 All of my projects are available at [https://github.com/manavnotnani](https://github.com/manavnotnani)
+- 👨‍💻 All of my projects are available at [[https://github.com/manavnotnani](https://github.com/manavnotnani](https://github.com/manavnotnani/market-linked-debunture-for-crypto))
 
 - 💬 Ask me about **Solidity, NodeJs, Docker, DeFi, NFT marketplace**
 
