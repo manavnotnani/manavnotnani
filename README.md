@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Womdo](https://womdo.techyrift.com/)
 
-- 👨‍💻 All of my projects are available at [[https://github.com/manavnotnani](https://github.com/manavnotnani](https://github.com/manavnotnani/market-linked-debunture-for-crypto))
+- 👨‍💻 All of my projects are available at [https://github.com/manavnotnani](https://github.com/manavnotnani](https://github.com/manavnotnani/market-linked-debunture-for-crypto))
 
 - 💬 Ask me about **Solidity, NodeJs, Docker, DeFi, NFT marketplace**
 
