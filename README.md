@@ -1,6 +1,6 @@
 [![MasterHead](https://walton.uark.edu/enterprise/images/blockchain-banner2.gif)](https://manavnotnani.live)
 <h1 align="center">Hi 👋, I'm Manav Notnani</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
+<h3 align="center">A passionate blockchain developer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 
