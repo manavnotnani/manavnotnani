@@ -12,7 +12,7 @@ Blockchain Developer with 5+ years of experience building decentralized systems.
 
 ## 🚀 What I'm Up To
 
-- 🌸 Building **[Bloom](https://github.com/manavnotnani/bloom)** - decentralized social finance platform
+- 🌸 Building **[Bloom](https://github.com/bloomwalletio)** - decentralized social finance platform
 - 🔨 Contributing to DeFi, AI-Agents frameworks.
 
 ## 💼 Experience
