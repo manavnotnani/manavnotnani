@@ -17,9 +17,9 @@ Blockchain Developer with 5+ years of experience building decentralized systems.
 
 ## 💼 Experience
 
-- **[Software Engineer]** @ [**Bloom**](https://www.bloom.social/) - [Building decentralized social finance infrastructure]
-- **[Developer Champion]** @ [**ElizaOS**](https://elizaos.ai/) - [Leading technical workshops and educating developers on AI agent frameworks]
-- **[Blockchain Engineer]** @ [**Antier**](https://antier.com/) - [Architected smart contracts & DeFi protocols]
+- **Software Engineer** @ [**Bloom**](https://www.bloom.social/) - [Building decentralized social finance infrastructure]
+- **Developer Champion** @ [**ElizaOS**](https://elizaos.ai/) - [Leading technical workshops and educating developers on AI agent frameworks]
+- **Blockchain Engineer** @ [**Antier**](https://antier.com/) - [Architected smart contracts & DeFi protocols]
 
 ## 🛠 Tech Stack
 
