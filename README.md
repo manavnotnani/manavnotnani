@@ -32,6 +32,6 @@ Tools:       Git • IPFS • The Graph • Ganache
 
 **Specialties:** Smart Contract Development • Architecting Robust Backend Systems • Strong R&D • AI workflows
 
-**💬 Let's build something together** - Always open to collaborating on innovative blockchain projects!
+**💬 Let's build something together** - Always open to collaborating on innovative projects!
 
 </div>
