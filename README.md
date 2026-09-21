@@ -16,7 +16,6 @@ I take products from idea to production — backend, cloud, security and deliver
 
 - 🌸 Building **[Bloom](https://www.bloom.social/)** — a market-intelligence social platform for crypto. I own the multi-service Node.js/TypeScript backend on AWS, the real-time on-chain activity pipeline, and the platform's security and compliance layer.
 - 🤖 Working agent-first: Claude Code, MCP and custom agents are part of how I design, build and review.
-- 💼 Open to founding / senior backend roles at early-stage teams — remote or relocation.
 
 ## 💼 Experience
 
