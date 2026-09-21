@@ -29,7 +29,7 @@ I take products from idea to production — backend, cloud, security and deliver
   
   APIs and Web3 integrations for early-stage startups.
 
-## 🏆 Built outside the day job
+## 🏆 Other projects
 
 - **[Womdo](https://github.com/manavnotnani/WOMDO)** — AI-rated decentralised influencer-advertising platform. $35K CrossFi ecosystem grant · Chainlink Blockmagic Hackathon winner.
 - **[W-Access](https://www.w-access.xyz)** — consumer wallet onboarding for W-Chain (ecosystem project).
