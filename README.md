@@ -20,10 +20,13 @@ I take products from idea to production — backend, cloud, security and deliver
 ## 💼 Experience
 
 - **Founding Engineer, Backend & Platform** @ [**Bloom**](https://www.bloom.social/) · Feb 2025 – Present
+
   Architecture, real-time pipelines, AWS infrastructure, security, delivery.
 - **Software Development Engineer** @ [**Antier Solutions**](https://www.antiersolutions.com) · Apr 2022 – Feb 2025
+  
   Led end-to-end delivery of a real-world-asset tokenization platform; built Solana and EVM backends; defined the microservices strategy.
 - **Backend Developer** · Freelance · 2021 – 2022
+  
   APIs and Web3 integrations for early-stage startups.
 
 ## 🏆 Built outside the day job
@@ -45,12 +48,12 @@ AI:          Claude Code • MCP • OpenAI / Anthropic APIs • Agent framework
 
 ## 🌐 Community
 
-Developer Champion @ [Eliza Labs](https://elizaos.ai/) (India) · Speaker, IIT Ropar · Network School, Aug 2025 cohort
+Developer Champion @ [Eliza Labs](https://elizaos.ai/) (India) · Speaker, IIT Ropar · Network School, Aug 2025, July 2026 cohort
 
 ---
 
 <div align="center">
 
-**Building something early-stage?** → [manav.notnani@gmail.com](mailto:manav.notnani@gmail.com)
+**Building something ?** → [manav.notnani@gmail.com](mailto:manav.notnani@gmail.com)
 
 </div>
