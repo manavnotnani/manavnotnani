@@ -2,37 +2,56 @@
 
 # Hey, I'm Manav 👋
 
-Blockchain Developer with 5+ years of experience building decentralized systems.
+**Founding Engineer | Backend & Platform**
 
-**Links:** [LinkedIn](https://linkedin.com/in/manavnotnani) • [X](https://x.com/heymanavv) • [Email](mailto:manav.notnani@gmail.com)
+I take products from idea to production — backend, cloud, security and delivery — on small teams, shipping daily with AI agents.
+
+[Portfolio](https://www.heymanav.xyz) • [LinkedIn](https://linkedin.com/in/manav-notnani) • [X](https://x.com/heymanavv) • [Email](mailto:manav.notnani@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Now
 
-- 🌸 Building **[Bloom](https://github.com/bloomwalletio)** - decentralized social finance platform
-- 🔨 Contributing to DeFi, AI-Agents frameworks.
+- 🌸 Building **[Bloom](https://www.bloom.social/)** — a market-intelligence social platform for crypto. I own the multi-service Node.js/TypeScript backend on AWS, the real-time on-chain activity pipeline, and the platform's security and compliance layer.
+- 🤖 Working agent-first: Claude Code, MCP and custom agents are part of how I design, build and review.
+- 💼 Open to founding / senior backend roles at early-stage teams — remote or relocation.
 
 ## 💼 Experience
 
-- **Software Engineer** @ [**Bloom**](https://www.bloom.social/) - [Building decentralized social finance infrastructure]
-- **Developer Champion** @ [**ElizaOS**](https://elizaos.ai/) - [Leading technical workshops and educating developers on AI agent frameworks]
-- **Blockchain Engineer** @ [**Antier**](https://antier.com/) - [Architected smart contracts & DeFi protocols]
+- **Founding Engineer, Backend & Platform** @ [**Bloom**](https://www.bloom.social/) · Feb 2025 – Present
+  Architecture, real-time pipelines, AWS infrastructure, security, delivery.
+- **Software Development Engineer** @ [**Antier Solutions**](https://www.antiersolutions.com) · Apr 2022 – Feb 2025
+  Led end-to-end delivery of a real-world-asset tokenization platform; built Solana and EVM backends; defined the microservices strategy.
+- **Backend Developer** · Freelance · 2021 – 2022
+  APIs and Web3 integrations for early-stage startups.
 
-## 🛠 Tech Stack
+## 🏆 Built outside the day job
+
+- **[Womdo](https://github.com/manavnotnani/WOMDO)** — AI-rated decentralised influencer-advertising platform. $35K CrossFi ecosystem grant · Chainlink Blockmagic Hackathon winner.
+- **[W-Access](https://www.w-access.xyz)** — consumer wallet onboarding for W-Chain (ecosystem project).
+- **[Kryzel](https://kryzel.io/)** — sports prediction markets on Aptos (Move).
+
+## 🛠 Stack
 
 ```
-Blockchain:  Solidity • Hardhat • Foundry • Ethers.js • Ether.js • Truffle
-Backend:     Node.js • Nest.js • Express • TypeScript • GraphQL • REST APIs
-Frontend:    React • Next.js • Tailwind CSS • HTML/CSS
-DevOps:      Docker • Kubernetes • CI/CD • AWS • GitHub Actions • Vercel • Railway
-Tools:       Git • IPFS • The Graph • Ganache
+Backend:     Node.js • NestJS • TypeScript • BullMQ • RabbitMQ • WebSockets • REST • GraphQL
+Data:        PostgreSQL • MongoDB • Redis • Prisma
+Cloud:       AWS (ECS, EC2, S3, IAM, ALB, CloudFront) • Docker • Kubernetes • GitHub Actions
+Security:    Auth • IAM • Secrets management • Geo-blocking / compliance
+Web3:        Solidity • Foundry • Hardhat • ethers.js • @solana/web3.js • ERC-4337 • Move
+AI:          Claude Code • MCP • OpenAI / Anthropic APIs • Agent frameworks (elizaOS)
 ```
 
-**Specialties:** Smart Contract Development • Architecting Robust Backend Systems • Strong R&D • AI workflows
+## 🌐 Community
 
-**💬 Let's build something together** - Always open to collaborating on innovative projects!
+Developer Champion @ [Eliza Labs](https://elizaos.ai/) (India) · Speaker, IIT Ropar · Network School, Aug 2025 cohort
+
+---
+
+<div align="center">
+
+**Building something early-stage?** → [manav.notnani@gmail.com](mailto:manav.notnani@gmail.com)
 
 </div>
